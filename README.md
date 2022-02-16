@@ -11,6 +11,4 @@ python3 -m pip install virtualenv
 virtualenv <env-name>
 source <env-name>/bin/activate
 pip install bs4 lxml pandas numpy sklearn matplotlib
-cd cscd_cohort4_aiml_repo
-python train_cscd_model.py 
 ```
